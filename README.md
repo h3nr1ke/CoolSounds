@@ -4,6 +4,7 @@ CoolSounds
 A sound board for ANDROID with some cool sounds to include sound effects in your life
 
 Android Version 3.2
+Min Version 1.6
 
 Library Dependencies
 ==========
