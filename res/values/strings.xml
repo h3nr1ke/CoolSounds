@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">CoolSounds</string>
+
+	<string name="title_1">Drama</string>
+	<string name="title_2">Joke</string>
+	<string name="title_3">Laugh</string>
+	<string name="title_4">Mafia</string>
+	<string name="title_5">Yupie</string>
+	<string name="title_6">Fail</string>
+	<string name="title_7">Fanfare</string>
+	<string name="title_8">UEPA!!</string>
+	<string name="title_9">K.O.</string>
+	<string name="title_10">Shot</string>
+	<string name="title_11">Claps</string>
+	<string name="title_12">Siren</string>
+
+	<string name="title_13">Blablabla</string>
+	<string name="title_14">Coins</string>
+	<string name="title_15">Crowd</string>
+	<string name="title_16">Friday</string>
+	<string name="title_17">Snoring</string>
+	<string name="title_18">Got it!</string>
+	<string name="title_19">Like It?</string>
+	<string name="title_20">Locomotive</string>
+	<string name="title_21">Old Car</string>
+	<string name="title_22">Toy</string>
+	<string name="title_23">Yes!</string>
+	<string name="title_24">Zipper</string>
+
+	<string name="txt_exit">Exit</string>
+	<string name="txt_remove_ringtone">Remove Me</string>
+	<string name="txt_about">About</string>
+	<string name="txt_share">Share</string>
+
+	<string name="menu_removed">Removed!</string>
+
+	<string name="menu_title">Save as...</string>
+	<string name="menu_save_ringtone">Ringtone</string>
+	<string name="menu_save_notification">Notification</string>
+	<string name="menu_save_both">Both</string>
+	<string name="menu_saving">Saving. Please wait...</string>
+
+	<string name="menu_saved">Saved!</string>
+
+	<string name="share">Share</string>
+	<string name="share_title">through which?</string>
+	<string name="share_msg">#CoolSounds for android, take a look
+		http://bit.ly/gFnd6Y by @hdeodato #h3nr1ke
+	</string>
+
+	<string name="txt_about_title">About \"@app_name@\"</string>
+	<string name="txt_desc">Thank you for use \"@app_name@\" \n\n Developed by
+		Henrique Deodato\n h3nr1ke@gmail.com\n Help me to improve this app, if
+		you found a bug or have an idea, send me an e-mail. ˆˆV \n To see all
+		my apps, click here @apps@
+	</string>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.coolsounds"
+    android:versionCode="12"
+    android:versionName="4.1"
+    android:installLocation="preferExternal" >
+
+    <application
+        android:icon="@drawable/icon"
+        android:logo="@drawable/logo"
+        android:label="@string/app_name" >
+        <activity
+            android:label="@string/app_name"
+            android:theme="@style/Theme.OwnTheme"
+        		android:logo="@drawable/logo"
+            android:name=".CoolSounds" >
+            <intent-filter >
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:configChanges="keyboard|keyboardHidden|orientation"
+            android:name="com.google.ads.AdActivity" />
+
+        <!--
+			<receiver android:name="CoolSoundsWidget"> <intent-filter> <action
+			android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+			</intent-filter> <meta-data android:name="android.appwidget.provider"
+			android:resource="@xml/widget" /> </receiver>
+        -->
+
+    </application>
+
+    <uses-sdk android:minSdkVersion="4" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+</manifest>

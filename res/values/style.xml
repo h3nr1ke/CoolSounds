@@ -1,0 +1,5 @@
+<resources>
+  <style name="Theme.OwnTheme" parent="@style/Theme.Sherlock">
+    <item name="abIcon">@drawable/logo</item>
+  </style>
+</resources>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">クールでサウンド</string>
+	    
+	<string name="title_1">ドラマ</string>
+	<string name="title_2">冗談</string>
+	<string name="title_3">笑い</string>
+	<string name="title_4">マフィア</string>
+	<string name="title_5">Yupie</string>
+	<string name="title_6">失敗</string>
+	<string name="title_7">ファンファーレ</string>
+	<string name="title_8">UEPA!!</string>
+	<string name="title_9">K.O.</string>
+	  <string name="title_10">ショット</string>
+  <string name="title_11">拍手</string>
+  <string name="title_12">サイレン</string>
+  
+	<string name="title_13">Blablabla</string>
+	<string name="title_14">コイン</string>
+	<string name="title_15">群衆</string>
+	<string name="title_16">金曜日</string>
+	<string name="title_17">いびき</string>
+	<string name="title_18">Got it!</string>
+	<string name="title_19">Like It?</string>
+	<string name="title_20">機関車</string>
+	<string name="title_21">古い車</string>
+	<string name="title_22">玩具</string>
+	<string name="title_23">Yes!</string>
+	<string name="title_24">ジッパー</string>
+
+	<string name="txt_exit">終了</string>
+	<string name="txt_remove_ringtone">ミーを削除します</string>
+	<string name="txt_about">について</string>
+	<string name="txt_share">シェア</string>
+
+	<string name="menu_removed">削除!</string>
+
+  <string name="menu_title">として保存...</string> 
+  <string name="menu_save_ringtone">着信音</string>
+  <string name="menu_save_notification">通知音</string>
+  <string name="menu_save_both">両方</string>
+  <string name="menu_saving">保存する。しばらくお待ちください。。。</string>
+
+   <string name="menu_saved">保存</string>
+   
+  <string name="txt_exit">終了</string>
+  <string name="txt_about">について</string>
+  
+	<string name="share">シェア</string>
+	<string name="share_title">これを介して？</string>
+	<string name="share_msg">#CoolSounds アンドロイドのために、見てみる http://bit.ly/gFnd6Y by @hdeodato #h3nr1ke</string>
+  
+  <string name="txt_about_title">について \"@app_name@\"</string>
+  <string name="txt_desc">使用していただきありがとうございます \"@app_name@\" \n\n によって開発された Henrique Deodato\n h3nr1ke@gmail.com\n このアプリを向上させるために助けてくれ, あなたがバグを見つけた場合や、アイデアを持っている私に電子メールをお送りください。 ˆˆV \n すべての私のアプリを表示するには、ここをクリックしてください @apps@</string>
+  
+</resources>

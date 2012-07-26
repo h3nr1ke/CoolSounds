@@ -2,3 +2,17 @@ CoolSounds
 ==========
 
 A sound board for ANDROID with some cool sounds to include sound effects in your life
+
+Android Version 3.2
+
+Library Dependencies
+
+ActionBar Sherlock
+http://actionbarsherlock.com/download.html
+
+ViewFlow
+https://github.com/pakerfeldt/android-viewflow
+
+Its ready for
+ - AdMob
+ - Flury

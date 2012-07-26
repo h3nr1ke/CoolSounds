@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res/com.coolsounds"
+	android:id="@+id/mainLayout" android:orientation="vertical"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:weightSum="1">
+
+	<LinearLayout android:id="@+id/adViewLayout"
+		android:layout_width="fill_parent" android:orientation="vertical"
+		android:gravity="center" android:layout_height="52dp"></LinearLayout>
+
+	<LinearLayout android:id="@+id/grill"
+		android:layout_width="fill_parent" android:orientation="vertical"
+		android:gravity="center" android:layout_height="fill_parent">
+		<GridView android:id="@+id/buttonGrid" android:layout_width="fill_parent"
+			android:layout_height="fill_parent" android:numColumns="auto_fit"
+			android:verticalSpacing="19dp" android:horizontalSpacing="10dp"
+			android:columnWidth="100dp" android:stretchMode="columnWidth"
+			android:gravity="center" xmlns:android="http://schemas.android.com/apk/res/android"></GridView>
+	</LinearLayout>
+
+
+</LinearLayout>

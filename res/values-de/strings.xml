@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="title_1">Drama</string>
+	<string name="title_2">Witz</string>
+	<string name="title_3">Lachen</string>
+	<string name="title_4">Mafia</string>
+	<string name="title_5">Yupie</string>
+	<string name="title_6">Scheitern</string>
+	<string name="title_7">Fanfare</string>
+	<string name="title_8">UEPA!!</string>
+	<string name="title_9">K.O.</string>
+  <string name="title_10">Shot</string>
+  <string name="title_11">Claps</string>
+  <string name="title_12">Sirene</string>
+  
+  <string name="title_13">Blablabla</string>
+	<string name="title_14">Münzen</string>
+	<string name="title_15">Menschenmenge</string>
+	<string name="title_16">Freitag</string>
+	<string name="title_17">Schnarchen</string>
+	<string name="title_18">Got it!</string>
+	<string name="title_19">Like It?</string>
+	<string name="title_20">Lokomotive</string>
+	<string name="title_21">altes Auto</string>
+	<string name="title_22">Spielzeug</string>
+	<string name="title_23">Yes!</string>
+	<string name="title_24">Reißverschluss</string>
+
+  <string name="menu_title">Speichern als...</string>
+  <string name="menu_save_ringtone">Ringtone</string>
+  <string name="menu_save_notification">Notification</string>
+  <string name="menu_save_both">Beide</string>
+  <string name="menu_saving">Sparen. Bitte warten...</string>
+  
+  <string name="txt_exit">Ausfahrt</string>
+	<string name="txt_remove_ringtone">entfernen Sie mich</string>
+	<string name="txt_about">über</string>
+	<string name="txt_share">Anteil</string>
+  
+  <string name="menu_saved">Gespeichert!</string>
+  
+	<string name="share">Anteil</string>
+	<string name="share_title">durch welche?</string>
+	<string name="share_msg">#CoolSounds für android, werfen Sie einen Blick http://bit.ly/gFnd6Y by @hdeodato #h3nr1ke</string>
+
+	<string name="txt_about_title">Über \"@app_name@\"</string>
+	<string name="txt_desc">
+		Vielen Dank für die \"@app_name@\"\n\n
+
+		Entwickelt von Henrique Deodato \n
+		h3nr1ke@gmail.com\n
+		Helfen Sie mir, diese App zu verbessern, wenn Sie einen Fehler gefunden oder eine Idee haben, senden Sie mir eine E-Mail. ˆˆV\n
+		Alle meine apps finden Sie hier @apps@
+	</string>
+
+</resources>

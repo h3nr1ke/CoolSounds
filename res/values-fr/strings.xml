@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">CoolSounds</string>
+
+	<string name="title_1">Drame</string>
+	<string name="title_2">Blague</string>
+	<string name="title_3">Rire</string>
+	<string name="title_4">Mafia</string>
+	<string name="title_5">Yupie</string>
+	<string name="title_6">Échec</string>
+	<string name="title_7">Fanfare</string>
+	<string name="title_8">UEPA!!</string>
+	<string name="title_9">K.O.</string>
+	<string name="title_10">Tir</string>
+	<string name="title_11">Tape</string>
+	<string name="title_12">Sirène</string>
+
+	<string name="title_13">Blablabla</string>
+	<string name="title_14">monnaie</string>
+	<string name="title_15">foule</string>
+	<string name="title_16">Friday</string>
+	<string name="title_17">ronflement</string>
+	<string name="title_18">Got it!</string>
+	<string name="title_19">Like It?</string>
+	<string name="title_20">Locomotive</string>
+	<string name="title_21">vieille voiture</string>
+	<string name="title_22">jouet</string>
+	<string name="title_23">Yes!</string>
+	<string name="title_24">Zipper</string>
+
+	<string name="txt_exit">Sortir</string>
+	<string name="txt_remove_ringtone">Me Retirer</string>
+	<string name="txt_about">À propos</string>
+	<string name="txt_share">Partager</string>
+
+	<string name="menu_removed">Suppression!</string>
+
+	<string name="menu_title">Enregistrer en tant que...</string>
+	<string name="menu_save_ringtone">Ringtone</string>
+	<string name="menu_save_notification">Notification</string>
+	<string name="menu_save_both">Les deux</string>
+	<string name="menu_saving">Saving. Sil vous plait attendre...</string>
+
+	<string name="menu_saved">Enregistré!</string>
+	
+	<string name="share">Partager</string>
+	<string name="share_title">à travers lequel?</string>
+	<string name="share_msg">#CoolSounds pour Android, jetez un oeil http://bit.ly/gFnd6Y by @hdeodato #h3nr1ke</string>
+
+	<string name="txt_about_title">Sur \"@app_name@\"</string>
+	<string name="txt_desc">Je vous remercie pour l\'utilisation \"@app_name@\"
+		\n\n Développé par Deodato Henrique\n h3nr1ke@gmail.com\n Aide-moi à
+		améliorer ce soft, si vous avez trouvé un bug ou avez une idée,
+		envoyez-moi un e-mail. ˆˆV \n Pour voir toutes mes applications,
+		cliquez ici @apps@
+	</string>
+</resources>

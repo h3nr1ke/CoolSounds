@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="title_1">Drama</string>
+	<string name="title_2">Broma</string>
+	<string name="title_3">Reír</string>
+	<string name="title_4">Mafia</string>
+	<string name="title_5">Yupie</string>
+	<string name="title_6">Falta</string>
+	<string name="title_7">Fanfarria</string>
+	<string name="title_8">UEPA!!</string>
+	<string name="title_9">K.O.</string>
+  <string name="title_10">Tiro</string>
+  <string name="title_11">Aplauso</string>
+  <string name="title_12">Sirena</string>
+  
+  <string name="title_13">Blablabla</string>
+	<string name="title_14">monedas</string>
+	<string name="title_15">multitud</string>
+	<string name="title_16">Friday</string>
+	<string name="title_17">ronquidos</string>
+	<string name="title_18">Got it!</string>
+	<string name="title_19">Like It?</string>
+	<string name="title_20">locomotora</string>
+	<string name="title_21">coche viejo</string>
+	<string name="title_22">juguete</string>
+	<string name="title_23">Yes!</string>
+	<string name="title_24">Zipper</string>
+	
+	<string name="txt_exit">salida</string>
+	<string name="txt_remove_ringtone">Me quite</string>
+	<string name="txt_about">sobre</string>
+	<string name="txt_share">compartir</string>
+	
+	<string name="menu_removed">Eliminado!</string>
+	
+	<string name="menu_title">Guardar como...</string>  
+  <string name="menu_save_ringtone">Tono</string>
+  <string name="menu_save_notification">Notificación</string>
+  <string name="menu_save_both">Ambos</string>
+  <string name="menu_saving">Ahorro. Por favor espere...</string>
+  
+   <string name="menu_saved">Guardado!</string>
+
+	<string name="share">Compartir</string>
+	<string name="share_title">a través del cual?</string>
+	<string name="share_msg">#CoolSounds para Android, mire http://bit.ly/gFnd6Y @hdeodato #h3nr1ke</string>
+		
+	<string name="txt_about_title">Sobre \"@app_name@\"</string>
+  <string name="txt_desc">Gracias por usar \"@app_name@\" \n\n Desarrollado por Deodato Henrique\n h3nr1ke@gmail.com\n Ayúdame a mejorar esta aplicación, si usted encuentra un error o tiene una idea, enviar un e-mail. ˆˆV \n Para ver todas mis aplicaciones, haga clic aquí @apps@</string>
+	
+</resources>
